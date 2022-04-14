@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ShailendraSinghRaikwar
-- 👀 I’m interested in Flutter Development and AI.
-- 🌱 I’m currently learning Flutter.
-- 💞️ I’m looking to collaborate on mobile app development.
-- 📫 How to reach me heyshailendrasingh@gmail.com
+- 👀 I’m interested in React Development.
+- 🌱 I’m currently learning ReactJS.
+- 💞️ I’m looking to collaborate on web app development.
+- 📫 How to reach me shailendrasinghraikwar@gmail.com
 
 <!---
 ShailendraSinghRaikwar/ShailendraSinghRaikwar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
