@@ -2,7 +2,7 @@
 - 👀 I’m interested in React Development.
 - 🌱 I’m currently learning ReactJS.
 - 💞️ I’m looking to collaborate on web app development.
-- 📫 How to reach me shailendrasinghraikwar@gmail.com
+- 📫 How to reach me heyshailendrasingh@gmail.com
 
 <!---
 ShailendraSinghRaikwar/ShailendraSinghRaikwar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
