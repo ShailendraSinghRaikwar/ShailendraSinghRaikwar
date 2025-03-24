@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShailendraSinghRaikwar
 - 👀 I’m interested in React Development.
-- 🌱 I’m currently learning ReactJS.
+- 🌱 I’m a React Developer.
 - 💞️ I’m looking to collaborate on web app development.
 - 📫 How to reach me heyshailendrasingh@gmail.com
 
